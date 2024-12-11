@@ -1,3 +1,3 @@
 # Integrantes
--David Santiago Velasco Triana
--Jhojan Stiven Castano Jejen
+David Santiago Velasco Triana           
+Jhojan Stiven Castano Jejen
